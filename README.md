@@ -1,20 +1,4 @@
 # Customer-segmentation
-Customer segmentation project using K-means clustering with Python and interactive dashboard visualization in Power BI
+This project focuses on segmenting customers using K-means clustering to better understand their behavior and improve business decision-making. The dataset was cleaned and processed using Python, and customers were grouped into meaningful segments such as Boost, Engage, Convert, Retain, and Upsell. These segments help identify high-value customers, low-engagement users, and opportunities for targeted marketing strategies.
 
-Tools Used:
-Python,Pandas,Scikit-learn,Power BI 
-
-What I Did:
-Cleaned the data
-
-Applied K-means clustering
-Created customer segments
-Saved results into CSV files
-Built a dashboard
-
-Customer Segments:
-Boost
-Engage
-Convert
-Retain
-Upsell
+The project includes the dataset, segmented output files, a Jupyter notebook for analysis, and a dashboard created using Power BI/Tableau for visualization. The dashboard provides an easy-to-understand view of customer groups and key insights, making it useful for businesses to take data-driven actions.
